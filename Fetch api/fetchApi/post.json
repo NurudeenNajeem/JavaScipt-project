@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Post One",
+        "body" : "This is first post"
+
+    },
+    {
+        "title": "Post Two",
+        "body" : "This is second post"
+
+    },
+    {
+        "title": "Post Three",
+        "body" : "This is first post"
+
+    },
+    {
+        "title": "Post Four",
+        "body" : "This is fourth post"
+
+    }
+    
+]
